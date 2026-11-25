@@ -1,4 +1,4 @@
-### Olá! Eu sou o Vinícius 👋
+### Olá! Me chamo Vinícius 👋
 
 Desenvolvedor Backend em formação, focado em construir aplicações robustas com **Java** e explorar o potencial da **Inteligência Artificial** aplicada a negócios.
 
@@ -8,13 +8,11 @@ Atualmente, estou imerso no **Bootcamp Java + IA (Itaú & DIO)**, onde documento
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="35" width="45" src="https://githubusercontent.com">
-  <img align="center" alt="Spring" height="35" width="45" src="https://githubusercontent.com">
-  <img align="center" alt="PostgreSQL" height="35" width="45" src="https://githubusercontent.com">
-  <img align="center" alt="Git" height="35" width="45" src="https://githubusercontent.com">
-  <img align="center" alt="GitHub" height="35" width="45" src="https://githubusercontent.com">
-</div>
+![Java](https://shields.io)
+![Spring Boot](https://shields.io)
+![PostgreSQL](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
 
 * **Backend:** Java, Spring Boot, Maven, APIs REST, JPA / Hibernate
 * **Dados:** SQL, Modelagem de Dados
