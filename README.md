@@ -8,12 +8,6 @@ Atualmente, estou imerso no **Bootcamp Java + IA (Itaú & DIO)**, onde documento
 
 ### 🛠️ Tecnologias e Ferramentas
 
-![Java](https://shields.io)
-![Spring Boot](https://shields.io)
-![PostgreSQL](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-
 * **Backend:** Java, Spring Boot, Maven, APIs REST, JPA / Hibernate
 * **Dados:** SQL, Modelagem de Dados
 * **IA & Automação:** Integração com LLMs, Engenharia de Prompt
@@ -30,7 +24,3 @@ Atualmente, estou imerso no **Bootcamp Java + IA (Itaú & DIO)**, onde documento
 
 ---
 
-### 📫 Onde me encontrar
-
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![DIO](https://shields.io)](https://dio.me)
